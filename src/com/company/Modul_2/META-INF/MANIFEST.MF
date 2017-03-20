@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Modul_2.Lab_6.example.testpack.Main
+
+
